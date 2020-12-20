@@ -1,3 +1,11 @@
+# Built With 
+
+* [React.js](https://github.com/facebook/create-react-app)
+
+# Demo
+
+View project at: [http://Shuto46490802.github.io/react-drum-machine](http://Shuto46490802.github.io/react-drum-machine)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
